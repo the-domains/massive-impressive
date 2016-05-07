@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Massive-Impressive]]></title>
         <description><![CDATA[Massive-Impressive]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/massive-impressive/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 05:18:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 07 May 2016 05:22:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/massive-impressive/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome to Massive-Impressive</p>]]></description>
-            <link>undefinedwelcome-to-massive-impressive/index.html</link>
+            <link>https://thegrid.ai/massive-impressive/welcome-to-massive-impressive/index.html</link>
             <guid isPermaLink="false">e0e22044-a915-4bd3-97cd-4f07697e5729</guid>
-            <pubDate>Sat, 07 May 2016 05:18:14 GMT</pubDate>
+            <pubDate>Sat, 07 May 2016 05:22:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
